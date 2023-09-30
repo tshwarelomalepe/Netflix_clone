@@ -1,0 +1,14 @@
+@media (max-width:768px) and (min-width:480px){
+
+    .enjoy_your_tv{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .kids_section{
+        display:flex;
+        flex-direction: column;
+    }
+
+    /* Fonts change as well with responsiveness */
+}
